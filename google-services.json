@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070185420506",
+    "firebase_url": "https://informe-trafego-catanduv-45947.firebaseio.com",
+    "project_id": "informe-trafego-catanduv-45947",
+    "storage_bucket": "informe-trafego-catanduv-45947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070185420506:android:fcf4e84811aa34c9fa77e3",
+        "android_client_info": {
+          "package_name": "br.com.infotransctd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070185420506-5f3a01l729i9vq06fsmir65v3k20idam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRqU69seWyvHDgF-cle8ZtgN4Mo_Q7Mts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070185420506-5f3a01l729i9vq06fsmir65v3k20idam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ITSMEI</string>
+    <string name="txtVehicles">Please tell the vehicle you are using:</string>
+    <string name="type1"><b>C</b>ar</string>
+    <string name="type2"><b>M</b>otorcycle</string>
+    <string name="type3"><b>B</b>ike</string>
+    <string name="type4"><b>B</b>us</string>
+    <string name="type5"><b>T</b>ruck</string>
+    <string name="type6"><b>P</b>ublic <b>V</b>ehicles</string>
+    <string name="google_directions">AIzaSyDmfvvYXN6RC1o2LjK94MDjLE6Xo0034Qs</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="interdiction_description">Description</string>
+    <string name="interdiction_street_one">Street One</string>
+    <string name="interdiction_street_two">Street Two</string>
+    <string name="interdiction_organization">Organization</string>
+    <string name="btnMaps">Go To Map</string>
+</resources>
